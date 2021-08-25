@@ -1,6 +1,6 @@
 # Hosted on
 
-I've hosted my project on 
+I've hosted my project on [github itself](https://ishitaoverhere.github.io/pokemon-wiki.github.io/)
 
 ## General Request
 
